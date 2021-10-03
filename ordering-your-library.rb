@@ -1,3 +1,6 @@
+# Dylan Park, 2021.
+# Learn Ruby - Codecademy
+
 def alphabetize(arr, rev = false)
     arr.sort!
     if rev == true
