@@ -1,4 +1,4 @@
-# Learn-Ruby
+# Learn Ruby - Codecademy
  
 My project content from 'Learn Ruby' on Codecademy.
 
